@@ -45,7 +45,7 @@ on:
 
 # กำหนด Environment Variables ระดับ Workflow
 env:
-  DOCKER_REPO: ijilatchaya/springboot-docker-app
+  DOCKER_REPO: jilatchaya/springboot-docker-app
   DEV_APP_NAME: springboot-app-dev
   DEV_HOST_PORT: 8081
   PROD_APP_NAME: springboot-app-prod
